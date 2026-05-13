@@ -1,0 +1,9 @@
+body {
+  background-color: #1B3C53;
+}
+
+.logo {
+  max-width: 320px;
+  width: 100%;
+  height: auto;
+}
